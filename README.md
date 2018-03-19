@@ -1,6 +1,10 @@
 # SevenBlocks
 
 
+
+コンテンツページ:
+
+ https://keisuna.github.io/SevenBlocks/SevenBlocks/index.html
 コンテンツ内容
 
 隣のブロックと足して７にして得点を稼げ！
